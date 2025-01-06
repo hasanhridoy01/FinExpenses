@@ -46,7 +46,7 @@ const Layout = () => {
           height: "130px",
           padding: "18px 0",
           position: "sticky",
-          zIndex: "9999",
+          zIndex: "200",
         }}
       >
         <Container
